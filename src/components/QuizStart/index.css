@@ -31,7 +31,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 15px;
+    font-size: 14px;
     font-family: "Roboto";
     font-weight:500;
 
@@ -39,7 +39,7 @@
 }
 
 .question{
-    font-size: 19px;
+    font-size: 18px;
     font-family: "Roboto";
     margin-top: 30px;
 }
@@ -87,6 +87,7 @@
     margin-right: 20px;
     padding-right: 10px;
     padding-left: 10px;
+    border-radius: 5px;
 }
 
 .quiz-container{
