@@ -189,7 +189,7 @@ height: 250px;
     background-color: #ffffff;
     top:30%;
     bottom: 0%;
-    height: 55vh;
+    height: 60vh;
     width: 100%;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -221,6 +221,8 @@ height: 250px;
     flex-direction: column;
     padding-top: 10px;
     width: 100%;
+    height: 100%;
+    overflow: auto;
 
 
  } 
