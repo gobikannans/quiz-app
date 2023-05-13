@@ -2,18 +2,25 @@
     display: flex;
     flex-direction: column;
     background-color: #f1f1f1;
-    height: 100vh;
+    padding-bottom: 30vh;
+    width: 100%;
 }
 
 .quizendbg-container{
     background-color: rgb(10, 10, 64);
-    height: 85vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     width: 100%;
     justify-content: center;
     align-items: center;
+    padding: 0px;
     padding: 10px;
+    padding-top: 0px;
+}
+
+.celeb{
+    width: 100%;
 }
 
 .quizend-container{

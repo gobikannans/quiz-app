@@ -12,7 +12,7 @@ const QuizEnd = () => {
   return (
     <div className='quiz-end'>
     <div className='quizendbg-container'>
-        <img src={celeb} alt="img"/>
+        <img src={celeb} alt="img" className=''/>
       <div className='quizend-container'> 
         <div className='points-container'>
             <h1 className='points' ><MdStars color='orange' size={25} style={{marginRight:"5px"}}/> {mark *30}</h1> 
