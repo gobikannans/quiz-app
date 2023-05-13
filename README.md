@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+Quiz App (Mobile first Approach)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic responsive Quiz APP here users should bound to aswer the questions within 1 minute If fail to answer it automatically submits and evaluate the remaining process. 
 
-## Available Scripts
 
-In the project directory, you can run:
+![Screenshot (104)](https://github.com/gobikannans/quiz-app/assets/113693850/00803d7c-7605-430a-a872-41091d765543)
+![Screenshot (105)](https://github.com/gobikannans/quiz-app/assets/113693850/7d824d5a-d3c5-49c2-94c0-fd4e046c295f)
+![Screenshot (106)](https://github.com/gobikannans/quiz-app/assets/113693850/089846d2-a180-47f1-a357-c28c2d2009d5)
+![Screenshot (107)](https://github.com/gobikannans/quiz-app/assets/113693850/f112c3b7-a857-437c-9823-8ca9e1aa4a73)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (101)](https://github.com/gobikannans/quiz-app/assets/113693850/432537c1-fcc6-471b-80d1-65b387f71e8b)
+![Screenshot (102)](https://github.com/gobikannans/quiz-app/assets/113693850/dc44bcaf-db51-45db-9d2a-4a5c76b21429)
+![Screenshot (103)](https://github.com/gobikannans/quiz-app/assets/113693850/575b3616-86ec-46d1-ac81-ae1321f73b63)
