@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import {Routes,Route} from "react-router-dom"
+import QuizApp from "./components/QuizApp";
+import QuizStart from "./components/QuizStart";
+import QuizEnd from "./components/QuizEnd";
+import ResultPage from "./components/ResultPage";
+import AppContextProvider from "./context/AppContext";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppContextProvider
+    value={{
+      
+    }}
+    >
+    <>
+      <Routes>
+        <Route exact path="/" Component={QuizApp} />
+        <Route exact path="/quizstart" Component={QuizStart} render= {(props)=>window.location.reload()}/>
+        <Route exact path="/quizend" Component={QuizEnd}/>
+        <Route exact path="/results" Component={ResultPage}/>
+      </Routes>
+    </>
+    </AppContextProvider>
   );
 }
 
